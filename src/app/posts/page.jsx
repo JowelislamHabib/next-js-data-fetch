@@ -1,6 +1,6 @@
 import React from "react";
 
-// normal function to fetch data from an API
+//=== normal function to fetch data from an API
 
 // const getPosts = async () => {
 //   const res = await fetch("https://jsonplaceholder.typicode.com/posts");
@@ -8,7 +8,7 @@ import React from "react";
 //   return posts;
 // };
 
-// Try catch block for error handling
+//=== Try catch block for error handling
 
 // const getPosts = async () => {
 //   try {
@@ -19,7 +19,7 @@ import React from "react";
 //   }
 // };
 
-// Using NextJS 13 cache function to cache the data for 60 seconds
+//=== Using NextJS 13 cache function to cache the data for 60 seconds
 
 // const getPosts = async () => {
 //   const res = await fetch("https://jsonplaceholder.typicode.com/posts");\
@@ -29,7 +29,7 @@ import React from "react";
 //   return await res.json();
 // };
 
-// Parallel data fetching using Promise.all to fetch posts and users data simultaneously
+//=== Parallel data fetching using Promise.all to fetch posts and users data simultaneously
 
 const getPosts = async () => {
   const [postsRes, usersRes] = await Promise.all([
