@@ -2,13 +2,13 @@
   "products": [
     {
       "id": 1,
-      "name": "Wireless Bluetooth Headphones",
+      "name": "Wireless Wifi Headphones",
       "category": "Electronics",
       "price": 59.99,
       "stock": 120,
       "rating": 4.5,
       "brand": "SoundMax",
-      "image": "https://via.placeholder.com/300x200?text=Headphones",
+      "image": "https://placehold.co/300x200?text=Headphones",
       "description": "High-quality wireless headphones with noise cancellation and long battery life."
     },
     {
@@ -19,7 +19,7 @@
       "stock": 75,
       "rating": 4.3,
       "brand": "TechTime",
-      "image": "https://via.placeholder.com/300x200?text=Smart+Watch",
+      "image": "https://placehold.co/300x200?text=Smart+Watch",
       "description": "Track your fitness, heart rate, and notifications with this sleek smartwatch."
     },
     {
@@ -30,7 +30,7 @@
       "stock": 200,
       "rating": 4.6,
       "brand": "ProGamer",
-      "image": "https://via.placeholder.com/300x200?text=Gaming+Mouse",
+      "image": "https://placehold.co/300x200?text=Gaming+Mouse",
       "description": "Ergonomic gaming mouse with customizable RGB lighting and DPI settings."
     },
     {
@@ -41,7 +41,7 @@
       "stock": 90,
       "rating": 4.7,
       "brand": "KeyPro",
-      "image": "https://via.placeholder.com/300x200?text=Keyboard",
+      "image": "https://placehold.co/300x200?text=Keyboard",
       "description": "Durable mechanical keyboard with tactile switches and backlight."
     },
     {
@@ -52,7 +52,7 @@
       "stock": 40,
       "rating": 4.4,
       "brand": "ViewBest",
-      "image": "https://via.placeholder.com/300x200?text=4K+Monitor",
+      "image": "https://placehold.co/300x200?text=4K+Monitor",
       "description": "Stunning 27-inch 4K display for productivity and entertainment."
     },
     {
@@ -63,7 +63,7 @@
       "stock": 60,
       "rating": 4.8,
       "brand": "FastDrive",
-      "image": "https://via.placeholder.com/300x200?text=SSD",
+      "image": "https://placehold.co/300x200?text=SSD",
       "description": "High-speed portable SSD with USB-C support and durable design."
     },
     {
@@ -74,7 +74,7 @@
       "stock": 150,
       "rating": 4.2,
       "brand": "BoomBox",
-      "image": "https://via.placeholder.com/300x200?text=Speaker",
+      "image": "https://placehold.co/300x200?text=Speaker",
       "description": "Compact speaker with powerful bass and long-lasting battery."
     },
     {
@@ -85,7 +85,7 @@
       "stock": 110,
       "rating": 4.5,
       "brand": "ErgoLift",
-      "image": "https://via.placeholder.com/300x200?text=Laptop+Stand",
+      "image": "https://placehold.co/300x200?text=Laptop+Stand",
       "description": "Ergonomic aluminum laptop stand with adjustable height."
     },
     {
@@ -96,7 +96,7 @@
       "stock": 85,
       "rating": 4.3,
       "brand": "Hubify",
-      "image": "https://via.placeholder.com/300x200?text=USB-C+Hub",
+      "image": "https://placehold.co/300x200?text=USB-C+Hub",
       "description": "Expand your laptop connectivity with multiple ports including HDMI and USB 3.0."
     },
     {
@@ -107,7 +107,7 @@
       "stock": 95,
       "rating": 4.1,
       "brand": "CamPro",
-      "image": "https://via.placeholder.com/300x200?text=Webcam",
+      "image": "https://placehold.co/300x200?text=Webcam",
       "description": "Crystal-clear video quality for streaming and video calls."
     }
   ]
