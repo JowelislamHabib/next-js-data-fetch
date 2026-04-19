@@ -30,10 +30,3 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
-
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/JowelislamHabib/next-js-data-fetch.git
-git push -u origin main
